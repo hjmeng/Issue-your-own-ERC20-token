@@ -5,7 +5,7 @@ pragma solidity ^0.4.18;
 //
 // Deployed to : 0x9c4faFE932f2E960995Bb903C4c6E4Df2BEc623B
 // Symbol      : POPAI
-// Name        : POPAI Token
+// Name        : PoP AI Token
 // Total supply: 1000000000
 // Decimals    : 18
 //
